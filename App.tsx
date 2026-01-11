@@ -63,7 +63,6 @@ const AppContent: React.FC = () => {
             <span className="font-black">{appConfig.appName.toUpperCase()}</span>
           </div>
           <p className="text-sm font-medium opacity-60">© 2025 {appConfig.schoolName}.</p>
-          <p className="text-xs font-bold mt-1 opacity-50">developed by Devi Saidulloh, S.Pd., Gr.</p>
         </footer>
       )}
 
